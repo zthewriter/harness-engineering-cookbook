@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you cite this repository, cite it as below."
+title: "Harness Engineering Cookbook"
+abstract: "Recipes for delivering documentation as context to AI agents, organized by persona."
+authors:
+  - name: "Zair Rogelio"
+version: "1.0.0"
+date-released: "2026-10-18"
+repository-code: "https://github.com/zthewriter/harness-engineering-cookbook"
+url: "https://github.com/zthewriter/harness-engineering-cookbook"
+license:
+  - CC-BY-4.0
+  - MIT
+keywords:
+  - "harness engineering"
+  - "context engineering"
+  - "Model Context Protocol"
+  - "documentation"
+  - "technical writing"
+  - "AI agents"
