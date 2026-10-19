@@ -14,6 +14,7 @@ The concepts follow [Learn Harness Engineering](https://github.com/walkinglabs/l
 | --- | --- | --- |
 | A persona folder | The steps for one job | Start here |
 | [`recipes/`](recipes/README.md) | The shared map: guides, context, tools, guardrails | When you want the part named, not the steps for your job |
+| [`examples/`](examples/README.md) | Whole harness architectures you can clone, starting with a docs site | When you want to see every part working together in one application |
 
 Writers, docs engineers, context engineers, and developer advocates publish the context pipeline. Developers and vibe coders call the MCP servers that pipeline produces.
 
