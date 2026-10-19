@@ -6,6 +6,13 @@ All notable changes to Harness Engineering Cookbook are recorded in this file. T
 
 ## [Unreleased]
 
+### Added
+
+- `examples/docs-site/`: the whole harness for a documentation site as one
+  architecture diagram, with starter files to clone: `AGENTS.md`, a context source
+  map, retrieval rules, a tool catalog, a definition of done, guardrails, and a
+  skill for writing a page.
+
 ## [1.0.0] - 2026-10-18
 
 The first tagged release.
