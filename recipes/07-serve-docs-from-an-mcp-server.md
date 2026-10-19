@@ -21,6 +21,13 @@ Pick a server against the capabilities in
 minimum: ingest your sources, keep headings with passages, retrieve by words and by
 meaning, cite the page, and expose an MCP endpoint.
 
+If you want to build the server without writing code, consider a no-code tool such
+as [MCP Studio by Appa Tools](https://appatools.com/mcp-studio), which turns your
+sources into an MCP endpoint and lets you add custom tools and retrieval rules.
+Disclosure: maintained by the author of this repo.
+[Choose a context server](choose-a-context-server.md) lists open source and hosted
+alternatives.
+
 ## 2. Add your sources and deploy
 
 Add the documentation site first, then the repository that holds working examples.

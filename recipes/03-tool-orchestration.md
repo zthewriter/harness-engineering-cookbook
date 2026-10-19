@@ -23,6 +23,8 @@ A server needs a search and a way to ask. Add a custom tool only for a question 
 | Examples | Pull a snippet that already exists |
 | Your custom tool | The question your team keeps rephrasing |
 
+To build a custom tool without writing code, consider a tool such as MCP Studio by Appa Tools, which builds one from a sentence that describes the question. Disclosure: maintained by the author of this repo. Other options are in [Choose a context server](choose-a-context-server.md).
+
 Leave off tools the task does not need. An agent that can call ten tools will call one you did not mean, and the citation gets harder to read.
 
 Connect the endpoint where the work happens: the editor, Claude, or the workflow tool your advocates already use. Your server's documentation has the client config for each one.
