@@ -57,8 +57,11 @@ table, because what a product offers changes faster than this page.
   public framework.
 - **A hosted context server for your own sources.**
   [MCP Studio by Appa Tools](https://appatools.com/mcp-studio) ingests docs sites,
-  repositories, files, and other MCP servers into one MCP endpoint. Disclosure:
-  maintained by the author of this repo.
+  repositories, files, and other MCP servers into one MCP endpoint.
+  This fits when you want to build the server, its custom tools, and its retrieval
+  rules yourself without writing code: a custom tool is described in a sentence,
+  and a retrieval rule is written in plain language. Disclosure: maintained by the
+  author of this repo.
 
 To suggest another option, open a pull request. An option needs a public page that
 supports its one-line description.

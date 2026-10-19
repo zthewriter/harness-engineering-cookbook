@@ -28,6 +28,8 @@ A source is the material you already trust.
 
 On your context server, add the source, choose the tools, and deploy. A private repository belongs on a server that can restrict access, as [Guardrails](04-guardrails.md) explains.
 
+If you would rather not write code for this, consider a no-code tool such as MCP Studio by Appa Tools, where you add the sources, describe a custom tool in a sentence, and write each source rule in plain language. Disclosure: maintained by the author of this repo. Its steps are under **Doing this in MCP Studio** at the end of this recipe, and other options are in [Choose a context server](choose-a-context-server.md).
+
 Group sources that answer the same kind of question. A useful split for a docs org is Product, Decisions, and Examples. A developer advocate often wants the current quickstart and the sample repo on the Examples server, and the style guide on Product.
 
 An MCP server you add as a source is read from. It does not become a set of buttons that change the other product.

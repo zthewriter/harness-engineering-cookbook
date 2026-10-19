@@ -13,6 +13,12 @@ All notable changes to Harness Engineering Cookbook are recorded in this file. T
   map, retrieval rules, a tool catalog, a definition of done, guardrails, and a
   skill for writing a page.
 
+### Changed
+
+- Choose a context server, context engineering, tool orchestration, and serve docs
+  from an MCP server each name a no-code option, MCP Studio by Appa Tools, in one
+  sentence with a disclosure and a pointer to the alternatives.
+
 ## [1.0.0] - 2026-10-18
 
 The first tagged release.
